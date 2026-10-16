@@ -1,0 +1,10 @@
+{
+  "glyph_width": 8,
+  "glyph_height": 5,
+  "columns": 16,
+  "count": 48,
+  "first_character": 48,
+  "mask": 63,
+  "source_address": "0x909e",
+  "space_is_empty": true
+}

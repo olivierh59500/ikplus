@@ -1,0 +1,62 @@
+{
+  "ball": {
+    "routine": "0xbf3e",
+    "accumulator_bits": 8,
+    "accumulator_target": 44,
+    "initial_increment": 128,
+    "increment_per_launch": 8,
+    "level_increment_limits": [
+      64,
+      96,
+      128,
+      160,
+      192,
+      224,
+      224,
+      0
+    ],
+    "heights": [
+      32,
+      48,
+      64,
+      32,
+      48,
+      64,
+      32,
+      32
+    ],
+    "initial_wait": 100,
+    "goal": 64
+  },
+  "bomb": {
+    "routine": "0xc99e",
+    "initial_interval": 25,
+    "difficulty_intervals": [
+      150,
+      120,
+      90,
+      50,
+      50,
+      50,
+      50,
+      25
+    ],
+    "interval_decrement": 8,
+    "minimum_interval": 8,
+    "first_positions": [
+      8,
+      7,
+      6,
+      12,
+      13,
+      14
+    ],
+    "position_multiplier": 8,
+    "position_offset": 16,
+    "initial_fuse": 48,
+    "fuse_decrement": 2,
+    "fuse_zero_after": 27,
+    "initial_wait": 150,
+    "goal": 32
+  }
+}

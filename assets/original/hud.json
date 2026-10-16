@@ -1,0 +1,53 @@
+{
+  "font_source": "0x8e9e",
+  "glyph_width": 8,
+  "glyph_height": 8,
+  "glyph_count": 64,
+  "columns": 16,
+  "palette": [
+    0,
+    3276,
+    3208,
+    1638,
+    3654,
+    1102,
+    1166,
+    8,
+    96,
+    3584,
+    2660,
+    2112,
+    2574,
+    2152,
+    3808,
+    0
+  ],
+  "point_columns": [
+    0,
+    10,
+    20
+  ],
+  "score_columns": [
+    40,
+    50,
+    60
+  ],
+  "player_colors": [
+    1,
+    4,
+    5
+  ],
+  "empty_point_colors": [
+    3,
+    3,
+    3
+  ],
+  "countdown_colors": [
+    1,
+    7
+  ],
+  "pause_colors": [
+    15,
+    5
+  ]
+}

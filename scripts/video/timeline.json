@@ -1,0 +1,275 @@
+{
+  "version": 2,
+  "title": "IK+",
+  "subtitle": "THE AMIGA CLASSIC / GO + EBITENGINE",
+  "fps": "3546895/70824",
+  "source_fps": "3546895/70824",
+  "source_frames": 22830,
+  "duration": 270.0057735004842,
+  "frames": 13522,
+  "seed": 9,
+  "source_commit": "b87c40d520ebc85399021495c033e262f3099523",
+  "editorial_notes": [
+    "Chronological highlights from one uninterrupted audio-enabled tournament, with legal joystick input from the observable-state human pilot.",
+    "Retained gameplay keeps the rational PAL rate. No speed changes, forced wins, score edits, restarts or game-state changes are used.",
+    "All eight combat fights through round11 are included in full. Waiting/judgement sections and bonus stages are excerpted.",
+    "The first bomb bonus fails after21bombs and13kicks. This failure is shown. The second bomb bonus completes all32bombs with20kicks.",
+    "The video reaches round13 withBLACK2 and56700points. The full saved input run later ends naturally at round19 withBLACK5 and83500points.",
+    "Re-recorded from the same saved legal inputs with stable display publication. Future prepared poses are retained until their display update; scores, outcomes, cuts and English captions are unchanged.",
+    "Bonus correction: retain the current shield/fighter picture so restoration for the next preparation cannot clip a reflected ball or flash a future bomb-player pose. Same saved inputs and soundtrack."
+  ],
+  "clips": [
+    {
+      "kind": "title",
+      "frames": 401,
+      "duration": 8.007122849703755
+    },
+    {
+      "source_start": 0.0,
+      "frames": 2326,
+      "duration": 46.44530610576293,
+      "source_tick_start": 0,
+      "source_tick_end": 2326
+    },
+    {
+      "source_start": 106.82819762073588,
+      "frames": 650,
+      "duration": 12.979126813734267,
+      "source_tick_start": 5350,
+      "source_tick_end": 6000
+    },
+    {
+      "source_start": 121.04533345362634,
+      "frames": 2310,
+      "duration": 46.12581990727101,
+      "source_tick_start": 6062,
+      "source_tick_end": 8372
+    },
+    {
+      "source_start": 211.26024875278236,
+      "frames": 700,
+      "duration": 13.977521184021517,
+      "source_tick_start": 10580,
+      "source_tick_end": 11280
+    },
+    {
+      "source_start": 226.23616430709114,
+      "frames": 2220,
+      "duration": 44.328710040753954,
+      "source_tick_start": 11330,
+      "source_tick_end": 13550
+    },
+    {
+      "source_start": 324.07881259524174,
+      "frames": 650,
+      "duration": 12.979126813734267,
+      "source_tick_start": 16230,
+      "source_tick_end": 16880
+    },
+    {
+      "source_start": 338.35585209034946,
+      "frames": 2225,
+      "duration": 44.42854947778268,
+      "source_tick_start": 16945,
+      "source_tick_end": 19170
+    },
+    {
+      "source_start": 423.1195341277371,
+      "frames": 1639,
+      "duration": 32.7273674580161,
+      "source_tick_start": 21190,
+      "source_tick_end": 22829
+    },
+    {
+      "source_start": 455.82693369834743,
+      "frames": 401,
+      "duration": 8.007122849703755,
+      "hold": true
+    }
+  ],
+  "chapters": [
+    {
+      "start": 0.0,
+      "end": 8.007122849703755,
+      "title": "THE AMIGA CLASSIC",
+      "detail": "Native Go + Ebitengine / Original game data"
+    },
+    {
+      "start": 8.007122849703755,
+      "end": 54.45242895546668,
+      "title": "FIRST BLOWS",
+      "detail": "Rounds 1-2 / Two first-place finishes"
+    },
+    {
+      "start": 54.45242895546668,
+      "end": 67.43155576920095,
+      "title": "SHIELD CONTROL",
+      "detail": "Round 3 / Closing ball bonus highlights"
+    },
+    {
+      "start": 67.43155576920095,
+      "end": 113.55737567647196,
+      "title": "KEEP THE PRESSURE ON",
+      "detail": "Rounds 4-5 / Green belt"
+    },
+    {
+      "start": 113.55737567647196,
+      "end": 127.53489686049348,
+      "title": "KICK AND EVADE",
+      "detail": "Round 6 / A hit ends this bonus"
+    },
+    {
+      "start": 127.53489686049348,
+      "end": 171.86360690124744,
+      "title": "THE PURPLE BELT",
+      "detail": "Rounds 7-8 / The same uninterrupted run"
+    },
+    {
+      "start": 171.86360690124744,
+      "end": 184.8427337149817,
+      "title": "THE SECOND WAVE",
+      "detail": "Round 9 / Another perfect shield stage"
+    },
+    {
+      "start": 184.8427337149817,
+      "end": 229.27128319276437,
+      "title": "BROWN BELT BOUTS",
+      "detail": "Rounds 10-11 / Two more first-place finishes"
+    },
+    {
+      "start": 229.27128319276437,
+      "end": 261.99865065078046,
+      "title": "BLACK BELT TEST",
+      "detail": "Round 12 / All 32 bombs survived"
+    },
+    {
+      "start": 261.99865065078046,
+      "end": 270.0057735004842,
+      "title": "ROUND 13 REACHED",
+      "detail": "BLACK 2 / 56,700 points / Eight fights won"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.7,
+      "end": 7.2,
+      "text": "The Amiga classic, rebuilt in Go + Ebitengine.\nA skilled simulated player takes the white suit."
+    },
+    {
+      "start": 8.807122849703756,
+      "end": 15.807122849703756,
+      "text": "Follow white: one player, two computer opponents.\nEvery move uses ordinary joystick controls."
+    },
+    {
+      "start": 24.007122849703755,
+      "end": 30.507122849703755,
+      "text": "Spacing, timing, and a well-placed counter.\nThe whole first and second fights are retained."
+    },
+    {
+      "start": 43.007122849703755,
+      "end": 50.007122849703755,
+      "text": "Two opening bouts. Two first-place finishes.\nNext: closing highlights of the first ball bonus."
+    },
+    {
+      "start": 55.15242895546668,
+      "end": 61.15242895546668,
+      "text": "Left and right, high and low.\nKeep the shield in the path of the incoming balls."
+    },
+    {
+      "start": 61.45242895546668,
+      "end": 66.75242895546668,
+      "text": "All 64 balls deflected.\nThe tournament continues at green belt."
+    },
+    {
+      "start": 68.23155576920095,
+      "end": 75.23155576920095,
+      "text": "Watch both opponents before committing.\nA strike on one side can leave the other side open."
+    },
+    {
+      "start": 86.43155576920095,
+      "end": 93.43155576920095,
+      "text": "Round 4 won. White keeps moving.\nThe full round 5 fight follows."
+    },
+    {
+      "start": 103.43155576920095,
+      "end": 110.43155576920095,
+      "text": "Another first-place finish.\nThe next challenge is a field of burning fuses."
+    },
+    {
+      "start": 114.15737567647196,
+      "end": 120.15737567647196,
+      "text": "Round 6: bomb bonus highlights.\nKick danger away, then make space."
+    },
+    {
+      "start": 120.55737567647196,
+      "end": 126.55737567647196,
+      "text": "A fragment ends the first bomb bonus.\nThe tournament continues; the failure is retained."
+    },
+    {
+      "start": 128.33489686049347,
+      "end": 135.33489686049347,
+      "text": "Later in the same run: purple belt.\nBoth opponents remain dangerous."
+    },
+    {
+      "start": 144.53489686049346,
+      "end": 151.53489686049346,
+      "text": "Round 7 won. No restart, no score edits.\nChoose the next opening carefully."
+    },
+    {
+      "start": 161.53489686049346,
+      "end": 168.53489686049346,
+      "text": "Round 8: first place.\nNext comes another wave of balls."
+    },
+    {
+      "start": 172.46360690124743,
+      "end": 178.46360690124743,
+      "text": "Another shield challenge, from both sides.\nHigh, middle, low: keep adjusting."
+    },
+    {
+      "start": 178.86360690124744,
+      "end": 184.16360690124745,
+      "text": "All 64 balls deflected again.\nThe brown belt is earned in the same run."
+    },
+    {
+      "start": 185.64273371498172,
+      "end": 192.64273371498172,
+      "text": "Three fighters. One arena.\nThe whole round 10 and 11 fights are retained."
+    },
+    {
+      "start": 203.8427337149817,
+      "end": 210.8427337149817,
+      "text": "Another first-place finish.\nWhite presses on toward black belt."
+    },
+    {
+      "start": 218.8427337149817,
+      "end": 225.8427337149817,
+      "text": "Eight combat rounds. Eight wins.\nNow the closing bomb challenge."
+    },
+    {
+      "start": 230.07128319276438,
+      "end": 237.07128319276438,
+      "text": "Round 12: final bomb bonus highlights.\nThis time, white survives the whole stage."
+    },
+    {
+      "start": 240.27128319276437,
+      "end": 247.27128319276437,
+      "text": "Move, kick, and stay clear of the blast.\nThe fuse keeps burning after a kick."
+    },
+    {
+      "start": 252.27128319276437,
+      "end": 259.2712831927644,
+      "text": "All 32 bombs survived, with 20 kicks.\nBLACK 2. 56,700 points. Round 13 reached."
+    },
+    {
+      "start": 262.49865065078046,
+      "end": 269.2986506507805,
+      "text": "A native port, playing the original game data.\nDesktop and Android share the same Go simulation."
+    }
+  ],
+  "logic_reference_commit": "cc8dd7342a607ffd298845db02113cf8abe9e771",
+  "source_worktree_modified": true,
+  "display_profile": "Latched visible pictures in combat, judging, both bonus stages and results; projectile motion remains per update.",
+  "source_code_sha256": "c7670eb1d51741c57b1311359fa533e07c17db59aeef0c208584041bd345553f",
+  "source_recording": ".cache/video/bonus-display-fix/gameplay.mkv",
+  "source_code_sha256_definition": "SHA-256 over each sorted internal/**/*.go path followed by its bytes, excluding *_test.go"
+}

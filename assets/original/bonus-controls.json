@@ -1,0 +1,168 @@
+{
+  "routine": "0xc3ec",
+  "initial_state": 3,
+  "neutral_direction": 15,
+  "joystick_directions": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    6,
+    4,
+    5,
+    0,
+    2,
+    0,
+    1,
+    0,
+    8,
+    7,
+    3
+  ],
+  "transitions": [
+    [
+      0,
+      1,
+      1,
+      0,
+      4,
+      3,
+      3,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      2,
+      1,
+      3,
+      3,
+      3,
+      0,
+      2
+    ],
+    [
+      1,
+      1,
+      2,
+      2,
+      3,
+      3,
+      6,
+      1,
+      2
+    ],
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      128,
+      130
+    ],
+    [
+      0,
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      4,
+      5
+    ],
+    [
+      3,
+      3,
+      3,
+      5,
+      4,
+      5,
+      6,
+      4,
+      6
+    ],
+    [
+      3,
+      3,
+      2,
+      6,
+      5,
+      5,
+      6,
+      5,
+      6
+    ]
+  ],
+  "states": [
+    {
+      "state": 0,
+      "shield_type": 0,
+      "shield_x_byte": 88,
+      "fighter_x_byte": 72,
+      "shield_y": 128,
+      "facing": 1,
+      "frame": 24
+    },
+    {
+      "state": 1,
+      "shield_type": 0,
+      "shield_x_byte": 88,
+      "fighter_x_byte": 72,
+      "shield_y": 149,
+      "facing": 1,
+      "frame": 35
+    },
+    {
+      "state": 2,
+      "shield_type": 0,
+      "shield_x_byte": 88,
+      "fighter_x_byte": 72,
+      "shield_y": 170,
+      "facing": 1,
+      "frame": 34
+    },
+    {
+      "state": 3,
+      "shield_type": 1,
+      "shield_x_byte": 88,
+      "fighter_x_byte": 72,
+      "shield_y": 149,
+      "facing": 1,
+      "frame": 58
+    },
+    {
+      "state": 4,
+      "shield_type": 2,
+      "shield_x_byte": 104,
+      "fighter_x_byte": 88,
+      "shield_y": 128,
+      "facing": 0,
+      "frame": 24
+    },
+    {
+      "state": 5,
+      "shield_type": 2,
+      "shield_x_byte": 104,
+      "fighter_x_byte": 88,
+      "shield_y": 149,
+      "facing": 0,
+      "frame": 35
+    },
+    {
+      "state": 6,
+      "shield_type": 2,
+      "shield_x_byte": 104,
+      "fighter_x_byte": 88,
+      "shield_y": 170,
+      "facing": 0,
+      "frame": 34
+    }
+  ],
+  "notes": "Values 128 and 130 in the transition table turn to the opposite facing and retain height; active-low neutral input is 15 and retains initial state 3."
+}

@@ -1,0 +1,134 @@
+1
+00:00:00,700 --> 00:00:07,200
+The Amiga classic, rebuilt in Go + Ebitengine.
+A skilled simulated player controls white.
+
+2
+00:00:08,793 --> 00:00:15,993
+One human player, two computer opponents.
+Every move uses ordinary joystick controls.
+
+3
+00:00:25,993 --> 00:00:32,993
+Timing and distance control the exchange.
+Both opening fights are retained in full.
+
+4
+00:00:42,993 --> 00:00:49,993
+Keep both opponents in view.
+The first shield challenge comes next.
+
+5
+00:00:50,860 --> 00:00:57,260
+High, middle, low: follow the incoming balls.
+Keep the shield in the path of the next attack.
+
+6
+00:01:00,260 --> 00:01:06,260
+Left and right, the pressure keeps building.
+Closing highlights from the first shield stage.
+
+7
+00:01:08,160 --> 00:01:11,060
+64 deflections.
+Back to the tournament.
+
+8
+00:01:12,093 --> 00:01:19,093
+More points, tougher exchanges.
+Both complete fights remain in the cut.
+
+9
+00:01:31,293 --> 00:01:38,293
+A strike on one side can leave the other side open.
+Watch the space between all three fighters.
+
+10
+00:01:44,293 --> 00:01:49,393
+Blue takes the fifth bout.
+White stays in the tournament.
+
+11
+00:02:06,741 --> 00:02:13,141
+Burning fuses replace the shield challenge.
+Kick danger away, then move clear.
+
+12
+00:02:18,941 --> 00:02:24,341
+All 32 bombs are survived, with 22 clean kicks.
+The uninterrupted tournament continues.
+
+13
+00:02:25,570 --> 00:02:32,570
+Later in the same run, both rivals remain dangerous.
+White works toward the purple belt.
+
+14
+00:02:44,770 --> 00:02:51,770
+Blue wins one exchange, but white stays in contention.
+The next bout begins without a restart.
+
+15
+00:02:55,770 --> 00:03:01,770
+White answers with a clear win.
+Another wave of balls follows.
+
+16
+00:03:02,890 --> 00:03:09,290
+Another shield challenge, from both sides.
+High and low: keep adjusting.
+
+17
+00:03:15,890 --> 00:03:19,090
+64 deflections again.
+The brown belt is earned.
+
+18
+00:03:20,117 --> 00:03:27,117
+Brown turns to black as the pressure rises.
+Both complete fights remain in the cut.
+
+19
+00:03:34,317 --> 00:03:41,317
+When the clock runs down, every point matters.
+Stay out of reach and choose the next opening.
+
+20
+00:03:46,317 --> 00:03:52,817
+Round eleven ends with white in first place.
+The last bomb challenge comes next.
+
+21
+00:03:54,332 --> 00:04:01,332
+Round twelve: closing bomb-stage highlights.
+Kick, move, and watch the blast.
+
+22
+00:04:08,532 --> 00:04:15,532
+Fuses keep burning after a kick.
+Moving away gives the next attack room to pass.
+
+23
+00:04:25,782 --> 00:04:29,032
+All 32 bombs survived, with 20 kicks.
+Round thirteen reached.
+
+24
+00:04:29,789 --> 00:04:36,589
+Round 13. Black 3. 61,100 points.
+A native Go + Ebitengine preview.
+
+25
+00:04:38,081 --> 00:04:44,781
+The current presentation now includes the complete high-score display.
+Scenery and fighters keep moving behind the table.
+
+26
+00:04:46,781 --> 00:04:54,281
+The list advances through the original entries.
+Every frame comes from the current native score controller.
+
+27
+00:04:55,781 --> 00:05:02,481
+The score sequence completes without an editorial cut.
+This capture was rebuilt from the latest release.
